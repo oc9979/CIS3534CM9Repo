@@ -4,7 +4,7 @@
 #Thursday, April 7, 2025
 #Update routers and switches;
 #read equipment from a file, write updates & errors to file
-#updated document
+#updated document, Added a movie quote
 
 ##---->>>> Use a try/except clause to import the JSON module
 
