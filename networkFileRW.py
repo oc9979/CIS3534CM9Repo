@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 #networkFileRW.py
-#Pamela Brauda
-#Thursday, March 3, 2022
+#Omar Cortes
+#Thursday, April 7, 2025
 #Update routers and switches;
 #read equipment from a file, write updates & errors to file
+#updated document
 
 ##---->>>> Use a try/except clause to import the JSON module
 
